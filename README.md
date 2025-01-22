@@ -10,4 +10,4 @@
 * **Tisdag** - Gemensam uppstart. Handledning.
 * **Onsdag** - Gemensam uppstart. Handledning.
 * **Torsdag** - Gemensam uppstart. Handledning.
-* **Fredag** - Code review. Handledning. Deadline för projektarbetet.
+* **Fredag** - Code review. Handledning. Deadline för projektarbetet 23:59.
