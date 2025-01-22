@@ -3,7 +3,7 @@
 
 ###### Javascript, vecka 4 av 4
 
-* **[Projektarbetet](https://github.com/Lexicon-frontend-2024-2025/projekt-js-individuellt/tree/main)**
+**[Projektarbetet](https://github.com/Lexicon-frontend-2024-2025/projekt-js-individuellt/tree/main)**
 
 ## Upplägg på veckan
 * **Måndag** - Gemensam uppstart och genomgång av projektarbete. Handledning.
