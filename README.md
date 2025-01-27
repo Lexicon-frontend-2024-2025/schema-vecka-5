@@ -1,4 +1,4 @@
-# Schema v.4
+# Schema v.5
 Övergripande schema över veckan
 
 ###### Javascript, vecka 4 av 4
