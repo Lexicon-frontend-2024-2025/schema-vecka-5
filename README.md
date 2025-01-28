@@ -10,6 +10,8 @@
 #### Läsning
 * [Import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 * [Export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
+* [Destructuring](https://www.freecodecamp.org/news/destructuring-in-javascript/)
+* [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 ### Youtube
 * [Modules](https://www.youtube.com/watch?v=fl-_6d18DN0)
 
