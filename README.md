@@ -5,6 +5,14 @@
 
 **[Projektarbetet](https://github.com/Lexicon-frontend-2024-2025/projekt-js-individuellt/tree/main)**
 
+## Material
+#### E-Learning:
+#### Läsning
+* [Import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+* [Export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
+### Youtube
+* [Modules](https://www.youtube.com/watch?v=fl-_6d18DN0)
+
 ## Upplägg på veckan
 * **[Måndag](https://github.com/Lexicon-frontend-2024-2025/lektion-27-jan)** - 09:30 Gemensam uppstart och genomgång av projektarbete. 13:15 Code along, projekt. Handledning.
 * **Tisdag** - 09:30 Gemensam uppstart - [destructuring](https://codepen.io/robboten/pen/VYZqRQW) och [modules](https://github.com/Robert-Lexicon/modulesDemo). EM: Handledning.
