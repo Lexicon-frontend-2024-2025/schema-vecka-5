@@ -7,7 +7,7 @@
 
 ## Upplägg på veckan
 * **[Måndag](https://github.com/Lexicon-frontend-2024-2025/lektion-27-jan)** - 09:30 Gemensam uppstart och genomgång av projektarbete. 13:15 Code along, projekt. Handledning.
-* **[Tisdag](https://github.com/Robert-Lexicon/modulesDemo)** - 09:30 Gemensam uppstart - [destructuring](https://codepen.io/robboten/pen/VYZqRQW) och modules. EM: Handledning.
+* **Tisdag** - 09:30 Gemensam uppstart - [destructuring](https://codepen.io/robboten/pen/VYZqRQW) och [modules](https://github.com/Robert-Lexicon/modulesDemo). EM: Handledning.
 * **Onsdag** - 09:30 Gemensam uppstart. 13:15 Code along, projekt. Handledning.
 * **Torsdag** - 09:30 Gemensam uppstart. 13:15 Code along, projekt. Handledning.
 * **Fredag** - 09:30 Code review. Handledning.
